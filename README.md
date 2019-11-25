@@ -1,6 +1,40 @@
-Project CICD_XAM
+# Project *CICD_XAM*
 
-Goal
+## Content
+- Description
+  - Goal
+  - Infrastructure
+  - The project is successful
+  - GitHub repository content (file list)
+- Setting up
+  - ...
+- Testing
+  - ...
+- Afterword
+  - ...
 
-Infrastructure
+---
 
+## Description
+
+### Goal
+
+### Infrastructure
+
+### The project is successful
+
+### GitHub repository content (file list)
+
+---
+
+## Setting up
+
+---
+
+## Testing
+
+---
+
+## Afterword
+
+---
