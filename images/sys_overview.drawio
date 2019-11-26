@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T08:58:42.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Bk1pfYePuIyLABoYK-Qf" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T08:59:07.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="nDqmfClA0At041iJ-8KK" version="12.2.9" type="github" pages="1">
   <diagram id="KN2XUhoYWy7jpF0GCZ8w" name="Page-1">
     <mxGraphModel dx="1182" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="JLcZjsEv6hI_EaW0VnN7-6" value="Ansible" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="760" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="bQyamxY2uDURpc13enPq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bQyamxY2uDURpc13enPq-1" target="bQyamxY2uDURpc13enPq-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="bQyamxY2uDURpc13enPq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="120" height="60" as="geometry"/>
+          <mxGeometry x="420" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bQyamxY2uDURpc13enPq-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="bQyamxY2uDURpc13enPq-4" value="Jenkins" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="80" height="80" as="geometry"/>
