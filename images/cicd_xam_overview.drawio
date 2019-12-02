@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T14:19:28.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="uHxlc6R2ttS5BxB4qhkJ" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T14:20:18.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="fipMLIyjJfU-iGZf-b0R" version="12.3.3" type="github" pages="1">
   <diagram id="KN2XUhoYWy7jpF0GCZ8w" name="Page-1">
     <mxGraphModel dx="1182" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="U8NSz-zDmw5IFP10hMDk-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-128.png" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="U8NSz-zDmw5IFP10hMDk-7" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="U8NSz-zDmw5IFP10hMDk-8" value="CICD Exam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="360" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
