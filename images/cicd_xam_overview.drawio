@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T08:22:24.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="GywYqoAaR0_OUJWiusK8" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:47:26.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="2pj9P81_YkYNNd6V3ME9" version="12.3.3" type="github" pages="1">
   <diagram id="KN2XUhoYWy7jpF0GCZ8w" name="Page-1">
     <mxGraphModel dx="1182" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,14 +43,14 @@
         <mxCell id="U8NSz-zDmw5IFP10hMDk-18" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;labelBackgroundColor=#4D9900;fillColor=none;fontSize=26;rotation=34;" parent="1" vertex="1">
           <mxGeometry x="461" y="586" width="60" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="WPTodCgTSqIrbtCGr82f-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="385" y="440" width="80" height="80" as="geometry"/>
-        </mxCell>
         <mxCell id="WPTodCgTSqIrbtCGr82f-2" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
           <mxGeometry x="165" y="320" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="WPTodCgTSqIrbtCGr82f-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
           <mxGeometry x="581" y="320" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="WPTodCgTSqIrbtCGr82f-4" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="385" y="440" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
