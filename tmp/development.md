@@ -17,6 +17,8 @@
 docker -v
 ~~~
 
+## Install !!! Git !!!
+
 ## Work with Jenkins's Docker image
 - Getting help: [Jenkins Docker image](https://hub.docker.com/r/jenkins/jenkins).
 - Hint: admin / 000000
