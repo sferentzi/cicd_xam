@@ -17,6 +17,10 @@
 docker -v
 ~~~
 
+## Hints
+- ??? Make Dockerfile executable
+- Generate ssh key with Ansible
+
 ## Install !!! Git !!!
 ## Install !!! Docker compose !!!
 ~~~

@@ -11,9 +11,12 @@ services:
       - cicd-network
 
   apache:
+    build:
+      context: .
+      dockerfile: /dockerfile-apache/Dockerfile
     image: httpd
     ports:
-      - 80:80
+      - 90:80
     networks:
       - cicd-network
 
