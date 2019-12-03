@@ -1,2 +1,3 @@
 FROM httpd
-ADD id_rsa.pub /root/.ssh/id_rsa.pub
+ADD test.txt /tmp/test.txt
+#ADD id_rsa.pub /root/id_rsa.pub
